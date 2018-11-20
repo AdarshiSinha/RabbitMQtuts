@@ -1,0 +1,11 @@
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\bin\Debug\netcoreapp2.1\stopwatch_test.deps.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\bin\Debug\netcoreapp2.1\stopwatch_test.runtimeconfig.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\bin\Debug\netcoreapp2.1\stopwatch_test.runtimeconfig.dev.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\bin\Debug\netcoreapp2.1\stopwatch_test.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\bin\Debug\netcoreapp2.1\stopwatch_test.pdb
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\obj\Debug\netcoreapp2.1\stopwatch_test.csprojAssemblyReference.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\obj\Debug\netcoreapp2.1\stopwatch_test.csproj.CoreCompileInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\obj\Debug\netcoreapp2.1\stopwatch_test.AssemblyInfoInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\obj\Debug\netcoreapp2.1\stopwatch_test.AssemblyInfo.cs
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\obj\Debug\netcoreapp2.1\stopwatch_test.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\stopwatch_test\obj\Debug\netcoreapp2.1\stopwatch_test.pdb
