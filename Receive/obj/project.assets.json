@@ -4188,11 +4188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\Receive\\Receive.csproj",
+      "projectUniqueName": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\RabbitMQtuts\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\Receive\\Receive.csproj",
+      "projectPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\RabbitMQtuts\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\Adarshi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\Receive\\obj\\",
+      "outputPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\RabbitMQtuts\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

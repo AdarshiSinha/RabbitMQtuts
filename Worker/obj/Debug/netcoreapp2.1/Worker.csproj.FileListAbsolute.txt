@@ -1,0 +1,11 @@
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\obj\Debug\netcoreapp2.1\Worker.csprojAssemblyReference.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\obj\Debug\netcoreapp2.1\Worker.csproj.CoreCompileInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfoInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfo.cs
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\bin\Debug\netcoreapp2.1\Worker.deps.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.dev.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\bin\Debug\netcoreapp2.1\Worker.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\bin\Debug\netcoreapp2.1\Worker.pdb
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\obj\Debug\netcoreapp2.1\Worker.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Worker\obj\Debug\netcoreapp2.1\Worker.pdb

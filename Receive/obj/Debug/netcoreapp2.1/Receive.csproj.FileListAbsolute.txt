@@ -9,3 +9,14 @@ C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Recei
 C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
 C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.dll
 C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Receive\obj\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Receive\obj\Debug\netcoreapp2.1\Receive.pdb

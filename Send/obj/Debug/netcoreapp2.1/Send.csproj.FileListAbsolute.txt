@@ -9,3 +9,14 @@ C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.Ass
 C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
 C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.dll
 C:\Users\Adarshi\Documents\GitHub\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.pdb
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\bin\Debug\netcoreapp2.1\Send.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\bin\Debug\netcoreapp2.1\Send.pdb
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\obj\Debug\netcoreapp2.1\Send.dll
+C:\Users\Adarshi\Documents\GitHub\RabbitMQ\RabbitMQtuts\Send\obj\Debug\netcoreapp2.1\Send.pdb

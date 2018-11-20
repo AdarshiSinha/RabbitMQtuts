@@ -4188,11 +4188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\Send\\Send.csproj",
+      "projectUniqueName": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\RabbitMQtuts\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\Send\\Send.csproj",
+      "projectPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\RabbitMQtuts\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\Adarshi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\Send\\obj\\",
+      "outputPath": "c:\\Users\\Adarshi\\Documents\\GitHub\\RabbitMQ\\RabbitMQtuts\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
